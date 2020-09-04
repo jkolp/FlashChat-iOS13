@@ -15,10 +15,10 @@ Flash Chat is an internet based messaging app similar to WhatsApp, the popular m
 * Create animations using loops.
 * Direct Segues for navigation.
 
-![Welcome Page](Documentation/1)
-![Register Page](Documentation/2)
-![Login Page](Documentation/3)
-![Chat With Keyboard Page](Documentation/4)
-![Chat Page](Documentation/5)
+![Welcome Page](Documentation/1.png)
+![Register Page](Documentation/2.png)
+![Login Page](Documentation/3.png)
+![Chat With Keyboard Page](Documentation/4.png)
+![Chat Page](Documentation/5.png)
 
 
